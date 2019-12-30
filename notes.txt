@@ -1,0 +1,22 @@
+Learning RxJS
+Javascript for Reactive RxJS
+api for asyn programing observable streams
+
+https://rxjs-dev.firebaseapp.com/guide/overview
+
+can also use npm to install the necessary project dependencies
+
+
+https://yarnpkg.com/lang/en/docs/install/#windows-stable
+
+yarn add rxjs webpack webpack-dev-server typescript ts-loader  -> gives a server on local host 8080
+
+development dependencies in package json file
+yarn add webpack-cli --dev
+
+scripts -> yarn run is now called start because of the scripts written in the package json.
+the command we want to run when we hit start is call "webpack-dev-server --mode development"
+
+renamed the tsconfig to ts.config change where needed.
+
+ctrl + b gets rid of the sidebar
