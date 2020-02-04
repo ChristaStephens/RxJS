@@ -20,3 +20,5 @@ the command we want to run when we hit start is call "webpack-dev-server --mode 
 renamed the tsconfig to ts.config change where needed.
 
 ctrl + b gets rid of the sidebar
+
+testing
